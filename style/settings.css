@@ -1,0 +1,12 @@
+.settings input{
+    margin: 1em;
+    border-radius: 5px;
+    border: 1px solid rgba(0,0,0,0.5);
+    border-bottom-width: 3px;
+    padding: 0.8em;
+}
+
+.settings input:hover{
+    background-color: #e3e3e3;
+    border-color: rgba(0,0,0,0.5);
+}

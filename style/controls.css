@@ -1,0 +1,37 @@
+.controls{
+    border-radius: 1em;
+    position: relative;
+    float: right;
+    overflow: hidden;
+    padding: 1em;
+    width: 15em;  
+    height: 30em;
+    background-color: #C8BCBC;
+    box-sizing: border-box;
+}
+
+.history{  
+    border: 1px solid;
+    border-radius: 5px;
+    overflow: overlay;
+    height: 20em;
+    text-align: left;
+}
+
+.buttonsGroup{
+    overflow: hidden;
+}
+
+.stepBackBtn{
+    float: left;
+}
+
+.pauseBtn{
+    float: right;
+}
+
+.settingsBtn{
+    width: 100%;
+    float: left;
+    margin-top: 0.5em;
+}
